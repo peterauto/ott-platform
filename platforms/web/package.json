@@ -4,6 +4,7 @@
   "private": true,
   "author": "JW Player",
   "main": "index.js",
+  "type": "module",
   "engines": {
     "node": ">=18.13.0"
   },
